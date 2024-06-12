@@ -4,3 +4,8 @@ Data e Hora: 11/06/2024 20:13:05 - Uso de CPU: 18.0% - Tempo Decorrido: 2.001976
 Data e Hora: 11/06/2024 20:13:08 - Uso de CPU: 13.9% - Tempo Decorrido: 4.003847 segundos
 Data e Hora: 11/06/2024 20:13:10 - Uso de CPU: 18.0% - Tempo Decorrido: 6.00671 segundos
 Data e Hora: 11/06/2024 20:13:12 - Uso de CPU: 15.7% - Tempo Decorrido: 8.009192 segundos
+Iniciando o registro de logs.
+Data e Hora: 11/06/2024 21:52:53 - Uso de CPU: 3.0% - Tempo Decorrido: 8.9e-05 segundos
+Data e Hora: 11/06/2024 21:52:55 - Uso de CPU: 1.0% - Tempo Decorrido: 2.002877 segundos
+Data e Hora: 11/06/2024 21:52:57 - Uso de CPU: 1.4% - Tempo Decorrido: 4.00497 segundos
+Data e Hora: 11/06/2024 21:52:59 - Uso de CPU: 1.3% - Tempo Decorrido: 6.007925 segundos
