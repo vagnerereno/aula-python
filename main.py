@@ -39,3 +39,11 @@ for _ in range(5):
     time.sleep(1)  # Atraso para simular trabalho entre os registros
 
 print("Registro de logs concluído.")
+
+
+print(f"Iniciando o registro de logs às {logger.hora_inicio.strftime('%H:%M:%S')}")
+for _ in range(5):
+    logger.registrar()
+    time.sleep(1)  # Atraso para simular trabalho entre os registros
+
+print("Registro de logs concluído.")
